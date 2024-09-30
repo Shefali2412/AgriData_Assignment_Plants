@@ -1,0 +1,24 @@
+{
+  "batches": [
+    {
+      "batch_id": "B0123",
+      "status": "sold",
+      "planting_date": "2021-01-01"
+    },
+    {
+      "batch_id": "B0394",
+      "status": "sold",
+      "planting_date": "2021-01-01"
+    },
+    {
+      "batch_id": "B0190",
+      "status": "growing",
+      "planting_date": "2021-01-01"
+    },
+    {
+      "batch_id": "B0200",
+      "status": "discarded",
+      "planting_date": "2021-01-01"
+    }
+  ]
+}

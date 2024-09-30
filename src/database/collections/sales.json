@@ -1,0 +1,16 @@
+{
+  "sales": [
+    {
+      "batch_id": "B0123",
+      "batch_price": 250
+    },
+    {
+      "batch_id": "B0394",
+      "batch_price": 120
+    },
+    {
+      "batch_id": "B0190",
+      "batch_price": 300
+    }
+  ]
+}

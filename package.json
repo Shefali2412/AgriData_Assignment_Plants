@@ -1,0 +1,16 @@
+{
+  "main": "src/app.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest test",
+    "build-tests": "webpack"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
